@@ -23,7 +23,7 @@ Functionality left out:
 * Turning window animations on and off
 * Switching window types
 
-For more informationSee the NetWM protocol see:
+For more information about NetWM protocol see:
 
 http://standards.freedesktop.org/wm-spec/1.3/index.html
 
